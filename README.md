@@ -54,5 +54,5 @@ Otherwise, you have many mazes in the maze_test folder.
 
 ## Contributors
 
-[Nathan Baudelin](https://github.com/nathanbaudelin)
+[Nathan Baudelin](https://github.com/nathanbaudelin)<br/>
 [Pierre Giordano](https://github.com/giordano-pierre)
