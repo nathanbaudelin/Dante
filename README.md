@@ -9,7 +9,7 @@ A perfect maze is a maze that has no loops or clusters.<br/>
 To use it, follow the instructions below:<br/>
 - Clone the repository by entering the following command in your terminal:
 
-        git clone git@github.com:Patricklevyy/dante.git
+        git clone git@github.com:nathanbaudelin/Dante.git
 
 - Once inside the cloned folder, compile the project by entering the command:
 
@@ -34,15 +34,15 @@ To use it, follow the instructions below:<br/>
 #### Example
 I want to generate a perfect maze of width 51 and height 23 (and redirect the maze in a file for solve it). I must type the command:
 
-        ./generator/generator 51 23 perfect > maze.txt
+        ./generator/generator 51 23 perfect > file.txt
 
-In the maze.txt file we get:
+In the file.txt file we get:
 
 ![perfect maze 51x23](./pictures/generated_maze.png)
 
 After that, I want to solve the maze. I must type the command:
 
-        ./solver/solver maze.txt
+        ./solver/solver file.txt
 
 The result will be:
 
