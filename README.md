@@ -17,7 +17,7 @@ To use it, follow the instructions below:<br/>
 
 - Run the program by entering these commands:
 
-    - In order to generate a perfect maze, you need to run the the program with this command:
+    - In order to generate a perfect maze, you need to run the program with this command:
 
             ./generator/generator x y [perfect]
 
@@ -27,9 +27,9 @@ To use it, follow the instructions below:<br/>
 
     - In order to solve a maze, you need to run the program with this command:
 
-            ./solver/solver maze.txt
+            ./solver/solver file.txt
 
-            maze.txt    file with an unsolved maze
+            file.txt    file with an unsolved maze
 
 #### Example
 I want to generate a perfect maze of width 51 and height 23 (and redirect the maze in a file for solve it). I must type the command:
